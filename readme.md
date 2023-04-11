@@ -1,0 +1,1 @@
+these are the files needed to run my personal website, it has an about me and a portfolio page along with the home page.
