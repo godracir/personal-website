@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color:white;
+    text-decoration: none; 
+    font-size: 1.5em; 
+    padding:0.5em;
+}
+
+nav {
+    background-color: lightseagreen; 
+    text-align: center;
+}
+
+header {
+    background-color: white; 
+    text-align: center;
+}
+
+img{
+    width:100%
+}
+
+.flex-parent-element {
+    display: flex;
+    width: 100%;
+  }
+  
+  .flex-child-element {
+    flex: 1;
+    border: 2px solid blueviolet;
+    margin: 10px;
+  }
+  
+  .flex-child-element:first-child {
+    margin-right: 20px;
+  }
